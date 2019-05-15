@@ -13,6 +13,15 @@ body {
   background-color: #c5e498;
 }
 
+.backgrd-darken {
+  background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("https://daniellatodd.github.io/PleasurePrinciples/images/background-image.png");
+}
+
 .page-margin {
   margin-left: 20px;
 }
