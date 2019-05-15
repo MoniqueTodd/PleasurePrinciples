@@ -5,21 +5,15 @@ html,body {
 }
 
 body {
-  background-image:url("https://daniellatodd.github.io/PleasurePrinciples/images/background-image.png");
+  background-image:   linear-gradient(
+      rgba(197, 228, 152, 0.4),
+      rgba(197, 228, 152, 0.4)
+    ),url("https://daniellatodd.github.io/PleasurePrinciples/images/background-image.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-color: #c5e498;
-}
-
-.backgrd-darken {
-  background-image: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
-    ),
-    url("https://daniellatodd.github.io/PleasurePrinciples/images/background-image.png");
 }
 
 .page-margin {
