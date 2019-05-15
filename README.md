@@ -1,4 +1,4 @@
 # Pleasure Principles
 
-# Description
+## Description
 - Critical erotics, pleasure politics and archives.
