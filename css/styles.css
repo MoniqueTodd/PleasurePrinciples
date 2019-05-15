@@ -1,0 +1,57 @@
+html,body {
+  font-family: 'Poller One', cursive;
+  /* color: #0055c6; */
+  color: #000000;
+}
+
+body {
+  background-image:url("https://daniellatodd.github.io/PleasurePrinciples/images/background-image.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #c5e498;
+}
+
+.page-margin {
+  margin-left: 20px;
+}
+
+/*Header Styles*/
+
+h1 {
+  font-size: 100px;
+  text-transform: uppercase;
+  text-align: right;
+  margin-right: 110px;
+}
+
+/*List Styles*/
+
+ul {
+  list-style: square;
+}
+
+/*Link Styles*/
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.info-link {
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.info-link a:link, a:visited {
+  color: #000000;
+}
+
+.info-link a:active, a:hover {
+  color: #000000;
+}
+
+/*Description Styles*/
+.description {
+  font-size: 25px;
+}
