@@ -13,8 +13,6 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-repeat: no-repeat;
-  border: 30px solid transparent;
   background-position: 0% 35%;
   background-color: #c5e498;
 }
