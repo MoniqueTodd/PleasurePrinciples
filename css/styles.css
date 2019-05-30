@@ -33,7 +33,7 @@ h1 {
 /*List Styles*/
 
 ul {
-  list-style: square;
+  list-style: none;
   width: 50%;
 }
 
