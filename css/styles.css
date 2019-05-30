@@ -34,6 +34,7 @@ h1 {
 
 ul {
   list-style: square;
+  width: 50%;
 }
 
 /*Link Styles*/
@@ -58,4 +59,5 @@ a {
 /*Description Styles*/
 .description {
   font-size: 25px;
+  width: 50%;
 }
