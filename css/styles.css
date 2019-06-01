@@ -19,6 +19,7 @@ body {
 
 .back-image {
   margin: 10px;
+  z-index: 1;
 }
 
 .page-margin {
