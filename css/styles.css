@@ -22,6 +22,10 @@ body {
   z-index: 1;
 }
 
+.page-margin {
+  margin-top: 200px;
+}
+
 .text-margin {
   margin-left: 20px;
 }
