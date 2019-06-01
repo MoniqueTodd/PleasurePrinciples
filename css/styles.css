@@ -79,7 +79,19 @@ a {
 /* MailToUI Theme */
 
 .mailtoui-modal-head {
-    background-color: #21262C;
+    background-color: #909295;
+}
+
+.mailtoui-modal-title {
+  color: #21262c;
+}
+
+.mailtoui-modal-close {
+  color: #21262c;
+}
+
+.mailtoui-brand a {
+    color: transparent;
 }
 
 .mailtoui-button-content:hover,
