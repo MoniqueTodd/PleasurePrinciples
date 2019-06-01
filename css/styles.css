@@ -64,10 +64,10 @@ a {
 
 /*Description Styles*/
 .description {
-  font-size: 25px;
+/*   font-size: 25px; */
+  width: 36%;
 }
 
 .descrip-margin {
   margin-top: -20px;
-  width: 40%;
 }
