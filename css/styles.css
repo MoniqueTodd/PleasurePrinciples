@@ -21,6 +21,11 @@ body {
   margin: 10px 10px 10px 40%;
 }
 
+#image-container {
+  width: 50%;
+  height: 60%;
+}
+
 #page-margin {
   margin-top: -1200px;
   margin-left: 20px;
