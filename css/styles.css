@@ -5,7 +5,7 @@ html,body {
 }
 
 body {
-  background-image:   linear-gradient(
+/*   background-image:   linear-gradient(
       rgba(197, 228, 152, 0.4),
       rgba(197, 228, 152, 0.4)
     ),url("https://moniquetodd.github.io/PleasurePrinciples/images/background-image.png");
@@ -13,8 +13,12 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-position: 0% 35%;
+  background-position: 0% 35%; */
   background-color: #c5e498;
+}
+
+.back-image {
+  margin: 10px;
 }
 
 .page-margin {
