@@ -18,15 +18,16 @@ body {
 }
 
 .back-image {
-  margin: 10px 10px 10px 40%;
+  margin: 80px 10px 10px 40%;
+  width: 400px;
 }
 
 #image-container {
-  width: 90%;
+  width: 100%;
 }
 
 #page-margin {
-  margin-top: -1200px;
+  margin-top: -456px;
   margin-left: 20px;
 }
 
