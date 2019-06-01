@@ -42,13 +42,6 @@ h1 {
   margin-left: 18px;
 }
 
-/*List Styles*/
-
-ul {
-  list-style: none;
-  width: 50%;
-}
-
 /*Link Styles*/
 
 a {
@@ -58,13 +51,14 @@ a {
 
 .info-link {
   font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 15px;
 }
 
-.info-link a:link, a:visited {
+.info-link:link, .info-link:visited {
   color: #000000;
 }
 
-.info-link a:hover {
+.info-link:hover {
   color: #E2238B;
 }
 
