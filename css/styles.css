@@ -107,10 +107,23 @@ a {
 
 @media only screen and (max-width: 767px) {
   .description {
-    width: 100%;
+    width: 150%;
   }
   h1 {
-    width: 100%;
+    width: 140%;
     text-align: center;
+  }
+  
+  #image-container {
+    width: 85%;
+  }
+  
+  #page-margin {
+    margin-top: -750px;
+  }
+  
+  .back-image {
+    margin: 470px 10px 10px 40%;
+    width: 250px;
   }
 }
