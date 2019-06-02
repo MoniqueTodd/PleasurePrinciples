@@ -3,6 +3,7 @@ html,body {
   /* color: #0055c6; */
   color: #000000;
   height: 101.95%;
+  max-width: 80%;
 }
 
 body {
