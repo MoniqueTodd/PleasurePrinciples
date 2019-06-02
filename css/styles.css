@@ -20,8 +20,8 @@ body {
 }
 
 .back-image {
-  margin: 150px 10px 10px 40%;
-  width: 320px;
+  margin: 200px 10px 10px 40%;
+  width: 290px;
 }
 
 #image-container {
@@ -29,7 +29,7 @@ body {
 }
 
 #page-margin {
-  margin-top: -470px;
+  margin-top: -490px;
   margin-left: 20px;
 }
 
