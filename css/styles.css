@@ -153,21 +153,72 @@ a {
 }
 
 .info-link:link, .info-link:visited {
-  color: #000000;
+  color: #ff5512;
 }
 
-.info-link:hover {
-  color: #E2238B;
+.info-link:hover, #publication-descrip a:hover {
+  color: #5A5D5A;
 }
 
 /*Description Styles*/
-.description {
-  font-size: 15px;
-  width: 36%;
+/* #about-descrip {
+  display: flex;
+  justify-content: space-evenly;
+} */
+
+
+#about-descrip #publication-descrip, #contact  {
+  text-align: justify;
+  margin-left: 32%;
 }
 
-.descrip-margin {
-  margin-top: -20px;
+#about-descrip h2, #publication-descrip h2 {
+  font-size: 23px;
+}
+
+#about-descrip ul, #about-descrip ul a {
+  font-size: 22px;
+  line-height: 1.2;
+  text-decoration: none;
+  list-style: none;
+}
+/*
+#publication-descrip  {
+  margin-left: 6%;
+} */
+
+/* #publication-descrip p {
+  width: 45%;
+} */
+
+#about-descrip ul {
+  width: 60%;
+  font-weight: normal;
+}
+
+.description, #about-descrip p, #publication-descrip p {
+  font-size: 27px;
+  line-height: 1.2;
+}
+
+.description {
+  text-align: justify;
+  margin-top: 6%;
+  margin-bottom: 1%;
+  width: 50%;
+  margin-left: 26%;
+}
+
+#publication-descrip h2, #contact h2 {
+  margin-bottom: -20px;
+}
+
+#publication-descrip, #contact {
+  width: 60%;
+}
+
+#publication-descrip a {
+  color: #ff5512;
 }
 
 /* MailToUI Theme */
@@ -236,4 +287,38 @@ a {
     padding-right: 27px;
   }
 
+  /*About Page*/
+  .description {
+      margin-top: 6%;
+      margin-bottom: 1%;
+      width: 83%;
+      margin-left: 8%;
+  }
+
+  .description, #about-descrip p, #publication-descrip p {
+    font-size: 20px;
+    line-height: 1.2;
+  }
+
+  #about-descrip #publication-descrip, #contact {
+    text-align: justify;
+    margin-left: 8%;
+  }
+
+  #publication-descrip, #contact {
+    width: 60%;
+  }
+
+  #about-descrip h2, #publication-descrip h2 {
+    font-size: 18px;
+  }
+
+  #about-descrip ul, #about-descrip ul a {
+    font-size: 18px;
+  }
+  #about-descrip ul {
+    width: 120%;
+    font-weight: normal;
+    margin-left: -8%;
+  }
 }
