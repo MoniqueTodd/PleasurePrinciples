@@ -308,6 +308,10 @@ a {
   #publication-descrip, #contact {
     width: 60%;
   }
+	
+  #about-descrip {
+    margin-top: 15%;
+  }
 
   #about-descrip h2, #publication-descrip h2 {
     font-size: 18px;
