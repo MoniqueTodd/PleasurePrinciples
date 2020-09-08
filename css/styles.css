@@ -41,7 +41,7 @@ body {
   /* margin-top: 8%;
   font-size: 25px; */
   position:absolute;
-  top: 30%;
+  top: 35%;
   left: 0%;
 	-webkit-transform:translateY(-50%);
 	transform:translateY(-50%);
@@ -58,7 +58,7 @@ body {
   white-space: nowrap;
   font-size: 30px;
   font-style: italic;
-  animation: banner 13s linear infinite;
+  animation: banner 14s linear infinite;
   color: #ff5512;
   letter-spacing: 4px;
 }
