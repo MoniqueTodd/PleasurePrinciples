@@ -86,10 +86,10 @@ h1 {
 
 /*Footer Styles*/
 
-#page-container {
+/* #page-container {
   position: relative;
   min-height: 100vh;
-}
+} */
 
 #content-wrap {
   padding-bottom: 10rem;    /* Footer height */
